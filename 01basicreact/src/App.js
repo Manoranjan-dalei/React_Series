@@ -1,6 +1,13 @@
+
+
+import Chai from "./Chai";
+
 function App() {
   return (
-  <h1>Hello Happy</h1>
+    <>
+    <Chai/>
+  
+  </>
   );
 }
 
